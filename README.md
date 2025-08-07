@@ -161,6 +161,9 @@ Core values:
 #OUTPUT
 
 
+<img width="852" height="500" alt="Image" src="https://github.com/user-attachments/assets/0542ff39-2b7a-4eeb-b971-7681da5a9648" />
+
+
 📄 PRODUCT PAGE
 
 
@@ -229,6 +232,8 @@ A rich visual gallery showcases the product from every angle:
 
 #OUTPUT
 
+<img width="849" height="502" alt="Image" src="https://github.com/user-attachments/assets/750aa705-16bc-4b79-a1b8-36425a6f9e28" />
+
 
 
 🙍‍♀️ PROFILE PAGE
@@ -296,7 +301,8 @@ A personalized wishlist for future purchases:
 
 #OUTPUT
 
-
+<img width="862" height="494" alt="Image" src="https://github.com/user-attachments/assets/7b5ed674-0a25-44d1-b82f-275193a374a7" />
+<img width="849" height="500" alt="Image" src="https://github.com/user-attachments/assets/53aefed1-77f4-4589-86ab-c1b033dae761" />
 
 🛒 CART PAGE
 
@@ -337,6 +343,7 @@ The Cart Page is the final checkpoint before checkout, designed to give users a 
 #OUTPUT  
 
 
+<img width="845" height="501" alt="Image" src="https://github.com/user-attachments/assets/ce365f58-106f-4d47-860a-fd826dc41a8e" />
 
 
 ✅ Outcomes
